@@ -9,5 +9,9 @@ print
 print
 test
 >>>>>>> 986b97f ( test)
+<<<<<<< HEAD
 tst3:wq
   
+=======
+yyyy
+>>>>>>> fe0afde (test3)
